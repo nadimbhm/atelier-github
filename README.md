@@ -1,10 +1,12 @@
 ---
-description: test description
+description: >-
+  Cette documentation a pour but de renseigner toutes les personnes curieuses
+  d'en savoir plus sur le programme d'Entrepreneur d'Intérêt Général.
 ---
 
-# Test page
+# Bienvenue sur la documentation EIG 4
 
-My content
+### Comment contribuer ?
 
-ici j'édite mon fichier
+Faites vos changements sur le repository Github et soumettez votre "pull request" !
 

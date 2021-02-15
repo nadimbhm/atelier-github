@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Test page](README.md)
+* [Bienvenue sur la documentation EIG 4](README.md)
 
